@@ -1,0 +1,336 @@
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+}
+.top-container {
+    width: 100%;
+    height: 170px;
+}
+.top-container1 {
+    background-color: blue;
+    height: 55px;
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+}
+.mailto {
+    color: white;
+    position: relative;
+    left: 120px;
+    top: 13px;
+    font-size: 1.3rem;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.myservices {
+    color: white;
+    font-size: 1.1rem;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    position: relative;
+    left: 530px;
+    top: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     }
+.top-container2 {
+    width: 100%;
+    height: 120px;
+    position: relative;
+}
+.logo {
+    position: relative;
+    top: 20px;
+    width: 250px;
+    left: 120px;
+}
+.aboutus1 {
+    color: rgb(124, 121, 121);
+    font-size: 1.0rem;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+     }
+.aboutus2 {
+    color: rgb(124, 121, 121);
+    font-size: 1.0rem;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    left: 820px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aboutus3 {
+    color: rgb(124, 121, 121);
+    font-size: 1.0rem;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    left: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+}     
+.call {
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(68, 218, 68);
+    display: inline-block;
+    position: relative;
+    left: 800px;
+    width: 170px;
+    height: 35px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    bottom: 7px;
+}
+.number {
+    color: white;
+    margin-left: 0px;
+    border-right-width: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    bottom: 15px;
+    bottom: 18px;
+    left: 40px;
+}
+
+.phone-call {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 10px;
+    color: white;
+}
+.middle-container {
+    width: 100%;
+    height: 500px;
+}
+.home-1 {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+}
+.a1 {
+    color: rgb(3, 190, 3);
+    position: absolute;
+    
+}
+.a2 {
+    position: absolute;
+    color: white;
+    font-size: 3rem;
+    top: 160px;
+    left: 150px;
+    margin-bottom: 90px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header1 {
+    height: 100%;
+    width: 100%;
+    background: blue;
+    overflow: hidden;
+}
+.sell-des-1 {
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 340px;
+    width: 600px;
+    left: 150px;
+    height: 130px;
+    position: absolute;
+    font-size: 1.1rem;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.check {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+.selldestxt {
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+}
+.selldestxtd {
+    position: relative;
+    bottom: 250px;
+    left: 150px;
+    margin-top: 25px;
+    height: 225px;
+    width: 1000px;
+    display: inline-block;
+}
+.check1 {
+    margin-bottom: 20px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.selldestxt1 {
+    width: 500px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+}
+.form-1 {
+    position: relative;
+    bottom: 400px;
+    left: 700px;
+    width: 450px;
+    size: 800px;
+    height: 400px;
+    display: inline-block;
+}
+.form-details {
+    padding: 10px;
+    margin: 10px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    box-shadow: 0 0 15px 4px silver;
+    border-radius: 10px;
+}
+.btn {
+    background: #e8dfe8;
+    background-image: -webkit-linear-gradient(top, #e8dfe8, #d3e0e8);
+    background-image: -moz-linear-gradient(top, #e8dfe8, #d3e0e8);
+    background-image: -ms-linear-gradient(top, #e8dfe8, #d3e0e8);
+    background-image: -o-linear-gradient(top, #e8dfe8, #d3e0e8);
+    background-image: linear-gradient(to bottom, #e8dfe8, #d3e0e8);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #2c189e;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 105px;
+    margin-top: 20px;
+  }
+  
+  .btn:hover {
+    background: #6aeb57;
+    background-image: -webkit-linear-gradient(top, #6aeb57, #6dad71);
+    background-image: -moz-linear-gradient(top, #6aeb57, #6dad71);
+    background-image: -ms-linear-gradient(top, #6aeb57, #6dad71);
+    background-image: -o-linear-gradient(top, #6aeb57, #6dad71);
+    background-image: linear-gradient(to bottom, #6aeb57, #6dad71);
+    text-decoration: none;
+  }
+  .form-header {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+.sellhouse {
+    background-color:rgb(3, 168, 3);
+    position: relative;
+    bottom: 400px;
+    right: 150px;
+    height: 60px;
+    width: 1349px;
+}
+.sellhousetxt {
+    color: white;
+    position: relative;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 2.0rem;
+    bottom: 25px;
+    left: 380px;
+}
+.howitworks {
+    text-align: center;
+    font-size: 2.3rem;
+    font-weight: 900;
+    position: relative;
+    bottom: 400px;
+}
+.howitworksp {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+    position: relative;
+    bottom: 0px;
+    width: 700px;
+    left: 150px;
+    color: #898686;
+}
+.offers {
+    height: 200px;
+    display: inline block;
+    position: relative;
+    text-align: center;
+    bottom: 380px;
+    width: 1200px;
+    right: 100px;
+}
+.offer {
+    display: inline-block;
+    position: relative;
+    border-style: groove;
+    border-radius: 20px;
+    width: 300px;
+    margin: 45px;
+    height: 220px;
+}
+
+.offerimg {
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+}
+.offerhead {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.offertxt {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 1.0rem;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.offer1 {
+    display: inline-block;
+    position: relative;
+    border-style: groove;
+    border-radius: 20px;
+    width: 300px;
+    margin: 45px;
+    height: 220px;
+    bottom: 23px;
+
+}
